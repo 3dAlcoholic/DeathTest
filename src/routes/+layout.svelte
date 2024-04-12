@@ -23,6 +23,7 @@
     import BUY_LOGO from "$lib/assets/buy.png";
     import MINER_LOGO from "$lib/assets/miners.png";
     import CHART_LOGO from "$lib/assets/chart.png";
+    import STAKING_LOGO from "$lib/assets/staking.png";
     import CONNECT_LOGO from "$lib/assets/connect.png";
     import DISCONNECT_LOGO from "$lib/assets/disconnect.png";
 
@@ -93,6 +94,8 @@ function toggleDropdown() {
 <!-- Toasts Component -->
 <Toasts />
 
+
+
 <!-- Main Content -->
 <div class="mx-auto text-center w-full md:w-fit space-x-0 md:space-x-2 space-y-1 md:space-y-0 flex flex-col md:flex-row" style="box-shadow: 0 0 20px #00FFFF;">
         
@@ -103,7 +106,7 @@ function toggleDropdown() {
     </div>
     <div class="border-2 border-[#ffcf40] bg-[#000000a3] rounded-lg w-full md:w-44 h-20 flex items-center justify-center text-[#ffcf40] text-lg">
         <a href="/staking" class="block text-s text-white hover:underline">
-            <img src="" alt="staking Logo" class="mx-auto h-20 w-auto mb-2" />  
+            <img src="{STAKING_LOGO}" alt="staking Logo" class="mx-auto h-20 w-auto mb-2" />  
         </a>
     </div>
     <div class="border-2 border-[#ffcf40] bg-[#000000a3] rounded-lg w-full md:w-44 h-20 flex items-center justify-center text-[#ffcf40] text-xlg">

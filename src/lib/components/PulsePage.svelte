@@ -30,7 +30,7 @@
   
   <!-- Hero Section -->    
    
-  <div class="border-2 border-[#ffcf40] rounded-lg mx-auto" style="width: 100%; max-width: 600px; height: 1050px; box-shadow: 0 0 30px #00FFFF; padding: 20px;">
+  <div class="border-2 border-[#ffcf40] rounded-lg mx-auto" style="width: 100%; max-width: 600px; height:fit; box-shadow: 0 0 30px #00FFFF; padding: 20px;">
     <div class="shadow-lg p-2 border-t-transparent border-t-4 border-l-4 border-l-transparent border-transparent-500 text-[#fff1bc] text-center rounded-lg" style="height: 100%;">
         <div class="p-2">
               <div class=" d-flex align-items-center justify-content-center">
@@ -157,7 +157,7 @@
  <br>
   
     
- <div class="border-2 border-[#ffcf40] rounded-lg mx-auto" style="width: 100%; max-width: 600px; height: 1500px; box-shadow: 0 0 30px #00FFFF; padding: 20px;">
+ <div class="border-2 border-[#ffcf40] rounded-lg mx-auto" style="width: 100%; max-width: 600px; height:fit; box-shadow: 0 0 30px #00FFFF; padding: 20px;">
     <div class="shadow-lg p-2 border-t-transparent border-t-4 border-l-4 border-l-transparent border-transparent-500 text-[#fff1bc] text-center rounded-lg" style="height: 100%;">
         <div class="p-2">
                 <p style="font-size: 25px;">This is the text content.</p>
