@@ -37,75 +37,132 @@
     <div class="shadow-lg p-2 border-t-transparent border-t-4 border-l-4 border-l-transparent border-transparent-500  text-[#fff1bc] text-center rounded-lg">
     <div class="p-2">
         <div>
-            <h2 class="text-3xl">mayhem</h2>
-        </div>
-
-
+            <h2 class="text-6xl">Banana Mayhem Stacker</h2>
+        </div> </div> 
+<br>
+<br>
+<br>
 
                     
-                    <div className="container col-xl-6 col-lg-6 col-md-6 mb-4 pt-4">
-                        <div id="topStatsContainer" className="row">
-                            <div className="container col-6 col-xl-4 col-lg-4 col-md-4 text-center">
-                                <div className="price-top-part">
-                                    <img src="http://Bananas.survey4earn.com/frontend/images/money.png" alt="" />
-                                    <h5 className="mb-0 font-weight-semibold color-theme-1 mb-2 text-white mt-4">
-                                        Available</h5>
-                                    <p className="text-large mb-2 text-white"><span className="notranslate">...</span></p>
-                                    <p className="text-small">Bananas ≈ ... USDT</p>
-                                </div>
-                            </div>
-                            <div className="container col-6 col-xl-4 col-lg-4 col-md-4 text-center">
-                                <div className="price-top-part">
-                                    <img src="http://Bananas.survey4earn.com/frontend/images/astro.png" alt="" />
-                                    <h5 className="mb-0 font-weight-semibold color-theme-1 mb-2 text-white mt-4">Deposit                                  </h5>
-                                    <p className="text-large mb-2 text-white"><span className="notranslate">...</span></p>
-                                    <p className="text-small">Bananas ≈ ... USDT</p>
-                                </div>
-                            </div>
-                            <div className="container col-6 col-xl-4 col-lg-4 col-md-4 text-center">
-                                <div className="price-top-part">
-                                    <img src="http://Bananas.survey4earn.com/frontend/images/withdraw.png" alt="" />
-                                    <h5 className="mb-0 font-weight-semibold color-theme-1 mb-2 text-white mt-4">Claimed                                  </h5>
-                                    <p className="text-large mb-2 text-white"><span className="notranslate">...</span></p>
-                                    <p className="text-small">Bananas</p>
-                                </div>
-                            </div>
-                            <div className="container col-6 col-xl-4 col-lg-4 col-md-4 text-center">
-                                <div className="price-top-part">
-                                    <img src="http://Bananas.survey4earn.com/frontend/images/shake.png" alt="" />
-                                    <h5 className="mb-0 font-weight-semibold color-theme-1 mb-2 mt-4 text-white">Rewarded                                  </h5>
-                                    <p className="text-large mb-2 text-white"><span className="notranslate">... / ...</span></p>
-                                    <p className="text-small">Direct / Indirect</p>
-                                </div>
-                            </div>
-                            <div className="container col-6 col-xl-4 col-lg-4 col-md-4 text-center">
-                                <div className="price-top-part">
-                                    <img src="http://Bananas.survey4earn.com/frontend/images/money.png" alt="" />
-                                    <h5 className="mb-0 font-weight-semibold color-theme-1 mb-2 text-white mt-4">Max Payout</h5>
-                                    <p className="text-large mb-2 text-white"><span className="notranslate">...</span></p>
-                                    <p className="text-small">Bananas</p>
-                                </div>
-                            </div>
-                            <div className="container col-6 col-xl-4 col-lg-4 col-md-4 text-center">
-                                <div className="price-top-part">
-                                    <img src="http://Bananas.survey4earn.com/frontend/images/user.png" alt="" />
-                                    <h5 className="mb-0 font-weight-semibold color-theme-1 mb-2 mt-4 text-white">Team                                  </h5>
-                                    <p className="text-large mb-2 text-white"><span className="notranslate">... / ... </span></p>
-                                    <p className="text-small">Players (Direct / Total)</p>
-                                </div>
-                            </div>
-                        </div>
-                        <p className="col-12 white mb-3 text-justify"> The Bananas NETWORK’S FAUCET is a low-risk, high reward contract that operates similarly to a high yield certificate of deposit. Players can participate by purchasing Bananas from the platform's swap page, joining another user’s Bananas team (1 Bananas minimum requirement) depositing Bananas to the Faucet Contract earns a consistent 1% daily return of their Bananas (365% maximum payout) passively.
-                        </p>
+       
+                
+        
+            
+            
+                    
+<div style="display: flex; justify-content: center;">
+    <div style="display: flex; flex-direction: row; align-items: center;">
+        <div className="row 1" style="margin-right: 200px;">
+            <h5 className="mb-0 font-weight-semibold color-theme-1 mb-2 text-white mt-4">
+                Available
+            </h5>
+            <p className="text-large mb-2 text-white">
+                <span className="notranslate">...</span>
+            </p>
+            <p className="text-small">Pearl ≈ ... USDT</p>
+        </div>
+
+        <div style="display: flex; justify-content: center;">
+            <div style="display: flex; flex-direction: row; align-items: center;">
+                
+        <div className="row 1" style="margin-right: 200px;">
+            <h5 className="mb-0 font-weight-semibold color-theme-1 mb-2 text-white mt-4">
+                Deposits
+            </h5>
+            <p className="text-large mb-2 text-white">
+                <span className="notranslate">...</span>
+            </p>
+            <p className="text-small">Pearl ≈ ... USDT</p>
+        </div>
+        <div className="row 1">
+            <h5 className="mb-0 font-weight-semibold color-theme-1 mb-2 text-white mt-4">
+                Claimed
+            </h5>
+            <p className="text-large mb-2 text-white">
+                <span className="notranslate">...</span>
+            </p>
+            <p className="text-small">Pearl ≈ ... USDT</p>
+        </div>
+    </div>
+</div>
+</div>   
+</div>
+<br>
+<br>
+
+
+       <div style="display: flex; justify-content: center;">
+        <div style="display: flex; flex-direction: row; align-items: center;">
+            <div className="row 2" style="margin-right: 210px;">
+                <h5 className="mb-0 font-weight-semibold color-theme-1 mb-2 text-white mt-4">
+                    Reward
+                </h5>
+                <p className="text-large mb-2 text-white">
+                    <span className="notranslate">... / ...</span>
+                </p>
+                <p className="text-small">Direct / Indirect</p>
+            </div>
+    
+            <div style="display: flex; justify-content: center;">
+                <div style="display: flex; flex-direction: row; align-items: center;">
+                    
+            <div className="row 2" style="margin-right: 190px;">
+                <h5 className="mb-0 font-weight-semibold color-theme-1 mb-2 text-white mt-4">
+                    Max Payout
+                </h5>
+                <p className="text-large mb-2 text-white">
+                    <span className="notranslate">...</span>
+                </p>
+                <p className="text-small">Pearl</p>
+            </div>
+            <div className="row 2">
+                <h5 className="mb-0 font-weight-semibold color-theme-1 mb-2 text-white mt-4">
+                    Team
+                </h5>
+                <p className="text-large mb-2 text-white">
+                    <span className="notranslate">... / ...</span>
+                </p>
+                <p className="text-small">Players (Direct / Total)</p>
+            </div>
+        </div>
+    </div>
+</div>
+</div>
+       <br>
+       <br>
+
+
+       <div style="display: flex; justify-content: center;">
+        <div style="display: flex; flex-direction: row; align-items: center;">
+            <div className="row 3">
+        <div style="width: 100%;"> <!-- Adjust width as needed -->
+            <p >
+                The Banana Mayhem Stacker is a low-risk, high reward contract that operates similarly to a high yield Degen Projects of the Past.
+                 Players can participate by purchasing Bananas from PulseX or staking for some (degenerate), 
+                 then by joining another user’s Bananas team (once meeting the Bananas deposit minimum requirement) depositing 
+                 Bananas to the Stacker Contract earns a consistent 1% daily return of their Bananas (Until They Hit the Max Payout) passively.
+            </p>
+        </div>
+    </div>
+</div>
+</div>
+</div>
+<br>
+<br>
+<div style="display: flex; justify-content: center;">
+    <div style="display: flex; flex-direction: row; align-items: center;">
+        <div className="row 4">
+                        
                     </div>
-                    <div className="container col-12 col-xl-6 col-lg-6 col-md-6 mb-4">
-                        <div className="row mb-2">
-                            <div className="text-left col-lg-5 col-md-12">
-                                <div className="priceDiv"><span className="text-white">Price 0.03840231 BNB/Bananas</span> </div>
-                            </div>
-                            <div className="actions col-lg-7 col-md-12 text-right"><button id="copyRefButton" type="button" className="btn btn-link" style={{ display: 'none' }}>Copy Referral Link!</button>
-                            <a href="/fountain" className>Get Bananas</a><a target="_blank" href="https://youtu.be/TOJg308iREw"> Tutorial</a></div>
-                        </div>
+                    <div className=" "><button id="copyRefButton" type="button" className="btn btn-link" style={{ display: 'none' }}>Copy Referral Link!</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <br>
+        <br>
+
+     
                         <div className="card mb-4 bg-info text-white">
                             <div className="card-body">
                               
@@ -141,8 +198,17 @@
                             <button type="button" className="btn btn-outline-light btn-block">Claim</button>
                         </div>
                         <p />
-                    </div>
-                
+                    
+            
+            
+
+
+
+
+
+
+
+
                 <div className="row mb-4 mt-2">
                     <div className="container col-12 col-xl-6 col-lg-6 col-md-6 mb-4">
                         <h2>Get a Buddy</h2>
@@ -194,7 +260,7 @@
                 </div>
             
         
-        <div>
+        
             <div className="header">
                 <div>
                     <svg data-v-ab5e3c86 xmlns="http://www.w3.org/2000/svg" xmlnsXlink="http://www.w3.org/1999/xlink" viewBox="0 24 150 28" preserveAspectRatio="none" shapeRendering="auto" className="waves">
@@ -209,8 +275,4 @@
                         </g>
                     </svg>
                 </div>
-            </div>
-        </div>
-</div>
-</div>
-</div>
+            </div> 
