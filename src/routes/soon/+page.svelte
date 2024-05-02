@@ -15,6 +15,8 @@
           refreshData();
       }, 7000);
   });
+
+  
 </script>
 
 <style>
@@ -45,6 +47,8 @@
    
 
   <!-- FaucetPage component -->
+  <div class="border-4 border-white bg-transparent-800 max-w-4xl mx-auto mb-6">
  <div class="block border-b-4 border-r-4 border-transparent border-t-transparent border-t-4 border-l-4 border-l-transparent p-4 text-s text-[#ffcf40]">
   <FaucetPage />
         </div>
+    </div>

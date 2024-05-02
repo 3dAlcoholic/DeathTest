@@ -23,7 +23,7 @@
   </script>
   
   <style>
-    /* Define any necessary CSS styles here */
+    
   </style>
   
   
@@ -37,8 +37,10 @@
     <div class="shadow-lg p-2 border-t-transparent border-t-4 border-l-4 border-l-transparent border-transparent-500  text-[#fff1bc] text-center rounded-lg">
     <div class="p-2">
         <div>
-            <h2 class="text-6xl">Banana Mayhem Stacker</h2>
-        </div> </div> 
+            <h2 class="text-6xl">Bananas Fountain</h2>
+            <hr>
+        </div> 
+    </div> 
 <br>
 <br>
 <br>
@@ -253,7 +255,21 @@
                 <div className="row mb-4 mt-2">
                     <div className="container col-12">
                         <h2 className="text-white-50">About</h2>
-                        <p className="text-white">Depositing Bananas to the FAUCET CONTRACT earns a consistent 1% daily return of their Bananas (365% maximum payout) passively. Players can also compound their earnings through regular deposits; rolling rewards as well as team based referrals .Faucet's contract cannot drain and will always be able to provide the Bananas that has been rewarded. Bananas rewards come from a 10% tax on all Bananas transactions excluding buys from the platform's SWAP page. 8% tax goes into the faucet pool that is used to pay daily ROIs and referral bonuses, while 1% tax is burnt and 1% is allocated for developer wallet to enhance the Bananas Network marketing and advertisement, and to make the Bananas token more valuable. If there is ever a situation where the tax pool is not enough to pay Bananas rewards new Bananas will be minted to ensure rewards are paid out. Given the game theory behind the Bananas network, the probability that the system will need to mint new Bananas to pay rewards is extremely low. Since Bananas deposited into faucet are sent to a burn address and drip is constantly being locked in the liquidity pool, drip is the only deflationary daily ROI platform. The best strategy for Bananas is to focus on real world adoption by building out your team through direct referrals, as you will receive bonus rewards from referrals on their deposits and profits as per investment plans. By doing so, you will dramatically accelerate your ROI period and allow your team’s chain to grow out organically. Not only are players able to passively increase their Bananas holdings in faucet through participation over time, but faucet also incentivizes players to participate actively by providing valuable referral rewards and building out their team.
+                        <p className="text-white">Depositing Bananas to the FAUCET CONTRACT earns a consistent 1% daily return of their Bananas (365% maximum payout) passively.
+                             Players can also compound their earnings through regular deposits; rolling rewards as well as team based referrals .
+                             Faucet's contract cannot drain and will always be able to provide the Bananas that has been rewarded.
+                              Bananas rewards come from a 10% tax on all Bananas transactions excluding buys from the platform's SWAP page.
+                               8% tax goes into the faucet pool that is used to pay daily ROIs and referral bonuses, 
+                               while 1% tax is burnt and 1% is allocated for developer wallet to enhance the Bananas Network marketing and advertisement, 
+                               and to make the Bananas token more valuable. If there is ever a situation where the tax pool is not enough to pay Bananas rewards 
+                               new Bananas will be minted to ensure rewards are paid out. Given the game theory behind the Bananas network, 
+                               the probability that the system will need to mint new Bananas to pay rewards is extremely low.
+                                Since Bananas deposited into faucet are sent to a burn address and drip is constantly being locked in the liquidity pool, 
+                                drip is the only deflationary daily ROI platform. The best strategy for Bananas is to focus on real world adoption by building out your team
+                                 through direct referrals, as you will receive bonus rewards from referrals on their deposits and profits as per investment plans.
+                                  By doing so, you will dramatically accelerate your ROI period and allow your team’s chain to grow out organically. 
+                                  Not only are players able to passively increase their Bananas holdings in faucet through participation over time,
+                                   but faucet also incentivizes players to participate actively by providing valuable referral rewards and building out their team.
                         </p>
                         <p id="referral" />
                     </div>
@@ -261,18 +277,5 @@
             
         
         
-            <div className="header">
-                <div>
-                    <svg data-v-ab5e3c86 xmlns="http://www.w3.org/2000/svg" xmlnsXlink="http://www.w3.org/1999/xlink" viewBox="0 24 150 28" preserveAspectRatio="none" shapeRendering="auto" className="waves">
-                        <defs data-v-ab5e3c86>
-                            <path data-v-ab5e3c86 id="gentle-wave" d="M-160 44c30 0 58-18 88-18s 58 18 88 18 58-18 88-18 58 18 88 18 v44h-352z" />
-                        </defs>
-                        <g data-v-ab5e3c86 className="parallax">
-                            <use data-v-ab5e3c86 xlinkHref="#gentle-wave" x={48} y={0} fill="rgba(255,255,255,0.7" />
-                            <use data-v-ab5e3c86 xlinkHref="#gentle-wave" x={48} y={3} fill="rgba(255,255,255,0.5)" />
-                            <use data-v-ab5e3c86 xlinkHref="#gentle-wave" x={48} y={5} fill="rgba(255,255,255,0.3)" />
-                            <use data-v-ab5e3c86 xlinkHref="#gentle-wave" x={48} y={7} fill="#fff" />
-                        </g>
-                    </svg>
-                </div>
-            </div> 
+            
+            
